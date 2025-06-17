@@ -9,6 +9,9 @@ enableRobotsTXT = true
 # baseURL = "https://ton-nom-de-domaine" (quand tu le décideras)
 
 [params]
+  disableThemeToggle = true
+  themeColor = "#596e79"
+  contentWidth = "900px"
   homeInfoParams = false
   disableSpecial1stPost = true
   author = "Thomas" # ou le pseudo de ton choix
@@ -17,7 +20,6 @@ enableRobotsTXT = true
   showReadingTime = true
   showBreadCrumbs = true
   showPostNavLinks = true
-  disableThemeToggle = false
   comments = false
   toc = true
 
