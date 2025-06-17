@@ -9,7 +9,7 @@ enableRobotsTXT = true
 # baseURL = "https://ton-nom-de-domaine" (quand tu le décideras)
 
 [params]
-  disableThemeToggle = true
+  disableThemeToggle = false
   themeColor = "#596e79"
   contentWidth = "900px"
   homeInfoParams = false
