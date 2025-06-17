@@ -2,23 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Dialectique on Carnet de Migration Intérieure</title>
-    <link>http://localhost:1313/tags/dialectique/</link>
+    <link>https://maalshekto.github.io/carnet-migration-interieure/tags/dialectique/</link>
     <description>Recent content in Dialectique on Carnet de Migration Intérieure</description>
     <generator>Hugo -- 0.147.8</generator>
     <language>fr-fr</language>
     <lastBuildDate>Sun, 16 Jun 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/dialectique/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://maalshekto.github.io/carnet-migration-interieure/tags/dialectique/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Deuxième fragment : La dialectique du contrôle et de l’abandon</title>
-      <link>http://localhost:1313/explorations/fragment2/</link>
+      <title>La dialectique du contrôle et de l’abandon</title>
+      <link>https://maalshekto.github.io/carnet-migration-interieure/explorations/fragment2/</link>
       <pubDate>Sun, 16 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/explorations/fragment2/</guid>
-      <description>&lt;h1 id=&#34;deuxième-fragment--la-dialectique-du-contrôle-et-de-labandon&#34;&gt;Deuxième fragment : La dialectique du contrôle et de l’abandon&lt;/h1&gt;
-&lt;h2 id=&#34;partie-i--le-nœud-central&#34;&gt;Partie I — Le nœud central&lt;/h2&gt;
+      <guid>https://maalshekto.github.io/carnet-migration-interieure/explorations/fragment2/</guid>
+      <description>&lt;h2 id=&#34;partie-i--le-nœud-central&#34;&gt;Partie I — Le nœud central&lt;/h2&gt;
 &lt;p&gt;En avançant dans cette migration intérieure, je rencontre une tension récurrente :&lt;br&gt;
 &lt;strong&gt;vouloir saisir le réel et, simultanément, devoir m’ouvrir à lui.&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;D’un côté, il y a l’élan naturel de la pensée vers la maîtrise, la structuration, le contrôle.&lt;br&gt;
-De l’autre, la nécessité de s’abandonner partiellement au réel pour qu’il puisse m’imprégner sans que mon mental ne l’écrase sous ses catégories.&lt;/p&gt;</description>
+De l’autre, la nécessité de s’abandonner partiellement au réel pour qu’il puisse m’imprégner sans que mon mental ne l’écrase sous ses catégories.&lt;/p&gt;
+&lt;p&gt;Cette dialectique ne se résout pas par un choix entre contrôle ou lâcher-prise absolu.&lt;br&gt;
+C’est un équilibre vivant, une oscillation permanente :&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

@@ -2,157 +2,185 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on Carnet de Migration Intérieure</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>https://maalshekto.github.io/carnet-migration-interieure/tags/</link>
     <description>Recent content in Tags on Carnet de Migration Intérieure</description>
     <generator>Hugo -- 0.147.8</generator>
     <language>fr-fr</language>
-    <lastBuildDate>Thu, 20 Jun 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 21 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://maalshekto.github.io/carnet-migration-interieure/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Danse</title>
-      <link>http://localhost:1313/tags/danse/</link>
-      <pubDate>Thu, 20 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/danse/</guid>
+      <title>Corporalité</title>
+      <link>https://maalshekto.github.io/carnet-migration-interieure/tags/corporalit%C3%A9/</link>
+      <pubDate>Fri, 21 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://maalshekto.github.io/carnet-migration-interieure/tags/corporalit%C3%A9/</guid>
       <description></description>
     </item>
     <item>
-      <title>Écoute</title>
-      <link>http://localhost:1313/tags/%C3%A9coute/</link>
-      <pubDate>Thu, 20 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/%C3%A9coute/</guid>
+      <title>Jardin Intérieur</title>
+      <link>https://maalshekto.github.io/carnet-migration-interieure/tags/jardin-int%C3%A9rieur/</link>
+      <pubDate>Fri, 21 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://maalshekto.github.io/carnet-migration-interieure/tags/jardin-int%C3%A9rieur/</guid>
       <description></description>
     </item>
     <item>
-      <title>Incarnation</title>
-      <link>http://localhost:1313/tags/incarnation/</link>
-      <pubDate>Thu, 20 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/incarnation/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Migration Intérieure</title>
-      <link>http://localhost:1313/tags/migration-int%C3%A9rieure/</link>
-      <pubDate>Thu, 20 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/migration-int%C3%A9rieure/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Présence</title>
-      <link>http://localhost:1313/tags/pr%C3%A9sence/</link>
-      <pubDate>Thu, 20 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/pr%C3%A9sence/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Corps</title>
-      <link>http://localhost:1313/tags/corps/</link>
-      <pubDate>Wed, 19 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/corps/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Karezza</title>
-      <link>http://localhost:1313/tags/karezza/</link>
-      <pubDate>Wed, 19 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/karezza/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Lenteur</title>
-      <link>http://localhost:1313/tags/lenteur/</link>
-      <pubDate>Wed, 19 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/lenteur/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Plasticité</title>
-      <link>http://localhost:1313/tags/plasticit%C3%A9/</link>
-      <pubDate>Tue, 18 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/plasticit%C3%A9/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Temps</title>
-      <link>http://localhost:1313/tags/temps/</link>
-      <pubDate>Tue, 18 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/temps/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Langage</title>
-      <link>http://localhost:1313/tags/langage/</link>
-      <pubDate>Mon, 17 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/langage/</guid>
+      <title>Maturation</title>
+      <link>https://maalshekto.github.io/carnet-migration-interieure/tags/maturation/</link>
+      <pubDate>Fri, 21 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://maalshekto.github.io/carnet-migration-interieure/tags/maturation/</guid>
       <description></description>
     </item>
     <item>
       <title>Migration</title>
-      <link>http://localhost:1313/tags/migration/</link>
+      <link>https://maalshekto.github.io/carnet-migration-interieure/tags/migration/</link>
+      <pubDate>Fri, 21 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://maalshekto.github.io/carnet-migration-interieure/tags/migration/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Paradoxes Régulateurs</title>
+      <link>https://maalshekto.github.io/carnet-migration-interieure/tags/paradoxes-r%C3%A9gulateurs/</link>
+      <pubDate>Fri, 21 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://maalshekto.github.io/carnet-migration-interieure/tags/paradoxes-r%C3%A9gulateurs/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Danse</title>
+      <link>https://maalshekto.github.io/carnet-migration-interieure/tags/danse/</link>
+      <pubDate>Thu, 20 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://maalshekto.github.io/carnet-migration-interieure/tags/danse/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Écoute</title>
+      <link>https://maalshekto.github.io/carnet-migration-interieure/tags/%C3%A9coute/</link>
+      <pubDate>Thu, 20 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://maalshekto.github.io/carnet-migration-interieure/tags/%C3%A9coute/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Incarnation</title>
+      <link>https://maalshekto.github.io/carnet-migration-interieure/tags/incarnation/</link>
+      <pubDate>Thu, 20 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://maalshekto.github.io/carnet-migration-interieure/tags/incarnation/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Migration Intérieure</title>
+      <link>https://maalshekto.github.io/carnet-migration-interieure/tags/migration-int%C3%A9rieure/</link>
+      <pubDate>Thu, 20 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://maalshekto.github.io/carnet-migration-interieure/tags/migration-int%C3%A9rieure/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Présence</title>
+      <link>https://maalshekto.github.io/carnet-migration-interieure/tags/pr%C3%A9sence/</link>
+      <pubDate>Thu, 20 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://maalshekto.github.io/carnet-migration-interieure/tags/pr%C3%A9sence/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Corps</title>
+      <link>https://maalshekto.github.io/carnet-migration-interieure/tags/corps/</link>
+      <pubDate>Wed, 19 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://maalshekto.github.io/carnet-migration-interieure/tags/corps/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Karezza</title>
+      <link>https://maalshekto.github.io/carnet-migration-interieure/tags/karezza/</link>
+      <pubDate>Wed, 19 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://maalshekto.github.io/carnet-migration-interieure/tags/karezza/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Lenteur</title>
+      <link>https://maalshekto.github.io/carnet-migration-interieure/tags/lenteur/</link>
+      <pubDate>Wed, 19 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://maalshekto.github.io/carnet-migration-interieure/tags/lenteur/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Plasticité</title>
+      <link>https://maalshekto.github.io/carnet-migration-interieure/tags/plasticit%C3%A9/</link>
+      <pubDate>Tue, 18 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://maalshekto.github.io/carnet-migration-interieure/tags/plasticit%C3%A9/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Temps</title>
+      <link>https://maalshekto.github.io/carnet-migration-interieure/tags/temps/</link>
+      <pubDate>Tue, 18 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://maalshekto.github.io/carnet-migration-interieure/tags/temps/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Langage</title>
+      <link>https://maalshekto.github.io/carnet-migration-interieure/tags/langage/</link>
       <pubDate>Mon, 17 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/migration/</guid>
+      <guid>https://maalshekto.github.io/carnet-migration-interieure/tags/langage/</guid>
       <description></description>
     </item>
     <item>
       <title>Pensée</title>
-      <link>http://localhost:1313/tags/pens%C3%A9e/</link>
+      <link>https://maalshekto.github.io/carnet-migration-interieure/tags/pens%C3%A9e/</link>
       <pubDate>Mon, 17 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/pens%C3%A9e/</guid>
+      <guid>https://maalshekto.github.io/carnet-migration-interieure/tags/pens%C3%A9e/</guid>
       <description></description>
     </item>
     <item>
       <title>Perception</title>
-      <link>http://localhost:1313/tags/perception/</link>
+      <link>https://maalshekto.github.io/carnet-migration-interieure/tags/perception/</link>
       <pubDate>Mon, 17 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/perception/</guid>
+      <guid>https://maalshekto.github.io/carnet-migration-interieure/tags/perception/</guid>
       <description></description>
     </item>
     <item>
       <title>Pré-Verbal</title>
-      <link>http://localhost:1313/tags/pr%C3%A9-verbal/</link>
+      <link>https://maalshekto.github.io/carnet-migration-interieure/tags/pr%C3%A9-verbal/</link>
       <pubDate>Mon, 17 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/pr%C3%A9-verbal/</guid>
+      <guid>https://maalshekto.github.io/carnet-migration-interieure/tags/pr%C3%A9-verbal/</guid>
       <description></description>
     </item>
     <item>
       <title>Abandon</title>
-      <link>http://localhost:1313/tags/abandon/</link>
+      <link>https://maalshekto.github.io/carnet-migration-interieure/tags/abandon/</link>
       <pubDate>Sun, 16 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/abandon/</guid>
+      <guid>https://maalshekto.github.io/carnet-migration-interieure/tags/abandon/</guid>
       <description></description>
     </item>
     <item>
       <title>Contrôle</title>
-      <link>http://localhost:1313/tags/contr%C3%B4le/</link>
+      <link>https://maalshekto.github.io/carnet-migration-interieure/tags/contr%C3%B4le/</link>
       <pubDate>Sun, 16 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/contr%C3%B4le/</guid>
+      <guid>https://maalshekto.github.io/carnet-migration-interieure/tags/contr%C3%B4le/</guid>
       <description></description>
     </item>
     <item>
       <title>Dialectique</title>
-      <link>http://localhost:1313/tags/dialectique/</link>
+      <link>https://maalshekto.github.io/carnet-migration-interieure/tags/dialectique/</link>
       <pubDate>Sun, 16 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/dialectique/</guid>
+      <guid>https://maalshekto.github.io/carnet-migration-interieure/tags/dialectique/</guid>
       <description></description>
     </item>
     <item>
       <title>Tension Intérieure</title>
-      <link>http://localhost:1313/tags/tension-int%C3%A9rieure/</link>
+      <link>https://maalshekto.github.io/carnet-migration-interieure/tags/tension-int%C3%A9rieure/</link>
       <pubDate>Sun, 16 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/tension-int%C3%A9rieure/</guid>
+      <guid>https://maalshekto.github.io/carnet-migration-interieure/tags/tension-int%C3%A9rieure/</guid>
       <description></description>
     </item>
     <item>
       <title>Cheminement Intérieur</title>
-      <link>http://localhost:1313/tags/cheminement-int%C3%A9rieur/</link>
+      <link>https://maalshekto.github.io/carnet-migration-interieure/tags/cheminement-int%C3%A9rieur/</link>
       <pubDate>Sat, 15 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/cheminement-int%C3%A9rieur/</guid>
+      <guid>https://maalshekto.github.io/carnet-migration-interieure/tags/cheminement-int%C3%A9rieur/</guid>
       <description></description>
     </item>
     <item>
       <title>Émulation</title>
-      <link>http://localhost:1313/tags/%C3%A9mulation/</link>
+      <link>https://maalshekto.github.io/carnet-migration-interieure/tags/%C3%A9mulation/</link>
       <pubDate>Sat, 15 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/%C3%A9mulation/</guid>
+      <guid>https://maalshekto.github.io/carnet-migration-interieure/tags/%C3%A9mulation/</guid>
       <description></description>
     </item>
   </channel>

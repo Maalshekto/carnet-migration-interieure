@@ -2,100 +2,115 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/explorations/fragment1/</loc>
+    <loc>https://maalshekto.github.io/carnet-migration-interieure/explorations/fragment1/</loc>
     <lastmod>2024-06-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/explorations/fragment2/</loc>
+    <loc>https://maalshekto.github.io/carnet-migration-interieure/explorations/fragment2/</loc>
     <lastmod>2024-06-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/explorations/fragment3/</loc>
+    <loc>https://maalshekto.github.io/carnet-migration-interieure/explorations/fragment3/</loc>
     <lastmod>2024-06-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/explorations/fragment4/</loc>
+    <loc>https://maalshekto.github.io/carnet-migration-interieure/explorations/fragment4/</loc>
     <lastmod>2024-06-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/explorations/fragment5/</loc>
+    <loc>https://maalshekto.github.io/carnet-migration-interieure/explorations/fragment5/</loc>
     <lastmod>2024-06-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/explorations/fragment6/</loc>
+    <loc>https://maalshekto.github.io/carnet-migration-interieure/explorations/fragment6/</loc>
     <lastmod>2024-06-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/danse/</loc>
+    <loc>https://maalshekto.github.io/carnet-migration-interieure/explorations/fragment7/</loc>
+    <lastmod>2024-06-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://maalshekto.github.io/carnet-migration-interieure/tags/corporalit%C3%A9/</loc>
+    <lastmod>2024-06-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://maalshekto.github.io/carnet-migration-interieure/explorations/</loc>
+    <lastmod>2024-06-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://maalshekto.github.io/carnet-migration-interieure/tags/jardin-int%C3%A9rieur/</loc>
+    <lastmod>2024-06-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://maalshekto.github.io/carnet-migration-interieure/tags/maturation/</loc>
+    <lastmod>2024-06-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://maalshekto.github.io/carnet-migration-interieure/tags/migration/</loc>
+    <lastmod>2024-06-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://maalshekto.github.io/carnet-migration-interieure/tags/paradoxes-r%C3%A9gulateurs/</loc>
+    <lastmod>2024-06-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://maalshekto.github.io/carnet-migration-interieure/tags/</loc>
+    <lastmod>2024-06-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://maalshekto.github.io/carnet-migration-interieure/tags/danse/</loc>
     <lastmod>2024-06-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/%C3%A9coute/</loc>
+    <loc>https://maalshekto.github.io/carnet-migration-interieure/tags/%C3%A9coute/</loc>
     <lastmod>2024-06-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/explorations/</loc>
+    <loc>https://maalshekto.github.io/carnet-migration-interieure/tags/incarnation/</loc>
     <lastmod>2024-06-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/incarnation/</loc>
+    <loc>https://maalshekto.github.io/carnet-migration-interieure/tags/migration-int%C3%A9rieure/</loc>
     <lastmod>2024-06-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/migration-int%C3%A9rieure/</loc>
+    <loc>https://maalshekto.github.io/carnet-migration-interieure/tags/pr%C3%A9sence/</loc>
     <lastmod>2024-06-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/pr%C3%A9sence/</loc>
-    <lastmod>2024-06-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2024-06-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/corps/</loc>
+    <loc>https://maalshekto.github.io/carnet-migration-interieure/tags/corps/</loc>
     <lastmod>2024-06-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/karezza/</loc>
+    <loc>https://maalshekto.github.io/carnet-migration-interieure/tags/karezza/</loc>
     <lastmod>2024-06-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/lenteur/</loc>
+    <loc>https://maalshekto.github.io/carnet-migration-interieure/tags/lenteur/</loc>
     <lastmod>2024-06-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/plasticit%C3%A9/</loc>
+    <loc>https://maalshekto.github.io/carnet-migration-interieure/tags/plasticit%C3%A9/</loc>
     <lastmod>2024-06-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/temps/</loc>
+    <loc>https://maalshekto.github.io/carnet-migration-interieure/tags/temps/</loc>
     <lastmod>2024-06-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/langage/</loc>
+    <loc>https://maalshekto.github.io/carnet-migration-interieure/tags/langage/</loc>
     <lastmod>2024-06-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/migration/</loc>
+    <loc>https://maalshekto.github.io/carnet-migration-interieure/tags/pens%C3%A9e/</loc>
     <lastmod>2024-06-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/pens%C3%A9e/</loc>
+    <loc>https://maalshekto.github.io/carnet-migration-interieure/tags/perception/</loc>
     <lastmod>2024-06-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/perception/</loc>
+    <loc>https://maalshekto.github.io/carnet-migration-interieure/tags/pr%C3%A9-verbal/</loc>
     <lastmod>2024-06-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/pr%C3%A9-verbal/</loc>
-    <lastmod>2024-06-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/abandon/</loc>
+    <loc>https://maalshekto.github.io/carnet-migration-interieure/tags/abandon/</loc>
     <lastmod>2024-06-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/contr%C3%B4le/</loc>
+    <loc>https://maalshekto.github.io/carnet-migration-interieure/tags/contr%C3%B4le/</loc>
     <lastmod>2024-06-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/dialectique/</loc>
+    <loc>https://maalshekto.github.io/carnet-migration-interieure/tags/dialectique/</loc>
     <lastmod>2024-06-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/tension-int%C3%A9rieure/</loc>
+    <loc>https://maalshekto.github.io/carnet-migration-interieure/tags/tension-int%C3%A9rieure/</loc>
     <lastmod>2024-06-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://maalshekto.github.io/carnet-migration-interieure/</loc>
     <lastmod>2024-06-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/cheminement-int%C3%A9rieur/</loc>
+    <loc>https://maalshekto.github.io/carnet-migration-interieure/tags/cheminement-int%C3%A9rieur/</loc>
     <lastmod>2024-06-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/%C3%A9mulation/</loc>
+    <loc>https://maalshekto.github.io/carnet-migration-interieure/tags/%C3%A9mulation/</loc>
     <lastmod>2024-06-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/instantanes/</loc>
+    <loc>https://maalshekto.github.io/carnet-migration-interieure/instantanes/</loc>
   </url><url>
-    <loc>http://localhost:1313/meta/</loc>
+    <loc>https://maalshekto.github.io/carnet-migration-interieure/meta/</loc>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://maalshekto.github.io/carnet-migration-interieure/categories/</loc>
   </url>
 </urlset>
