@@ -9,6 +9,8 @@ enableRobotsTXT = true
 # baseURL = "https://ton-nom-de-domaine" (quand tu le décideras)
 
 [params]
+  homeInfoParams = false
+  disableSpecial1stPost = true
   author = "Thomas" # ou le pseudo de ton choix
   description = "Explorations progressives sur le réel, la migration intérieure et la densification de la présence."
   defaultTheme = "auto" # (clair/sombre en fonction du navigateur)
