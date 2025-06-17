@@ -14,19 +14,43 @@
     <loc>http://localhost:1313/explorations/fragment4/</loc>
     <lastmod>2024-06-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/explorations/</loc>
-    <lastmod>2024-06-18T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/explorations/fragment5/</loc>
+    <lastmod>2024-06-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/lenteur/</loc>
-    <lastmod>2024-06-18T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/explorations/fragment6/</loc>
+    <lastmod>2024-06-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/danse/</loc>
+    <lastmod>2024-06-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/%C3%A9coute/</loc>
+    <lastmod>2024-06-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/explorations/</loc>
+    <lastmod>2024-06-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/incarnation/</loc>
+    <lastmod>2024-06-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/migration-int%C3%A9rieure/</loc>
-    <lastmod>2024-06-18T00:00:00+00:00</lastmod>
+    <lastmod>2024-06-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/plasticit%C3%A9/</loc>
-    <lastmod>2024-06-18T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/tags/pr%C3%A9sence/</loc>
+    <lastmod>2024-06-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2024-06-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/corps/</loc>
+    <lastmod>2024-06-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/karezza/</loc>
+    <lastmod>2024-06-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/lenteur/</loc>
+    <lastmod>2024-06-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/plasticit%C3%A9/</loc>
     <lastmod>2024-06-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/temps/</loc>
@@ -66,9 +90,6 @@
     <lastmod>2024-06-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/%C3%A9mulation/</loc>
-    <lastmod>2024-06-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/incarnation/</loc>
     <lastmod>2024-06-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/instantanes/</loc>

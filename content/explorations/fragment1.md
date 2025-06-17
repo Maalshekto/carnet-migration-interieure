@@ -1,5 +1,5 @@
 ---
-title: "Premier fragment : passer de l’émulation à l’habitation"
+title: "Passer de l’émulation à l’habitation"
 date: 2024-06-15
 tags: ["migration", "émulation", "incarnation", "cheminement intérieur"]
 weight: 1

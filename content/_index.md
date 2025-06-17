@@ -32,3 +32,4 @@ Certains passages de structuration et d’organisation des idées ont été faci
 
 > *Ce carnet n’est pas un enseignement.  
 > C’est un témoin de migration.* 🪷
+---

@@ -1,5 +1,5 @@
 ---
-title: "Quatrième fragment : La temporalité lente de la migration intérieure"
+title: "La temporalité lente de la migration intérieure"
 date: 2024-06-18
 tags: ["temps", "plasticité", "lenteur", "migration intérieure"]
 weight: 4

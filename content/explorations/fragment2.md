@@ -1,12 +1,10 @@
 ---
-title: "Deuxième fragment : La dialectique du contrôle et de l’abandon"
+title: "La dialectique du contrôle et de l’abandon"
 date: 2024-06-16
 tags: ["dialectique", "contrôle", "abandon", "migration", "tension intérieure"]
 weight: 2
 draft: false
 ---
-
-# Deuxième fragment : La dialectique du contrôle et de l’abandon
 
 ## Partie I — Le nœud central
 

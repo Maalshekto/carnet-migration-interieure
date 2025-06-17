@@ -1,5 +1,5 @@
 ---
-title: "Troisième fragment : La pensée pré-verbale"
+title: "La pensée pré-verbale"
 date: 2024-06-17
 tags: ["pensée", "pré-verbal", "perception", "migration", "langage"]
 weight: 3
