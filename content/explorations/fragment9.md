@@ -2,7 +2,7 @@
 title: "Fragment — L’Ingénieur et le Jardinier"
 date: 2024-06-23
 draft: false
-weight: 8
+weight: 9
 tags: ["polarités", "masculin", "métaphores", "introspection"]
 ---
 
