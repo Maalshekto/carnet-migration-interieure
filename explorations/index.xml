@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Explorations on Carnet de Migration Intérieure</title>
-    <link>https://maalshekto.github.io/carnet-migration-interieure/explorations/</link>
+    <link>http://localhost:1313/carnet-migration-interieure/explorations/</link>
     <description>Recent content in Explorations on Carnet de Migration Intérieure</description>
     <generator>Hugo -- 0.147.8</generator>
     <language>fr-fr</language>
-    <lastBuildDate>Fri, 21 Jun 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://maalshekto.github.io/carnet-migration-interieure/explorations/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 22 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/carnet-migration-interieure/explorations/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Passer de l’émulation à l’habitation</title>
-      <link>https://maalshekto.github.io/carnet-migration-interieure/explorations/fragment1/</link>
+      <link>http://localhost:1313/carnet-migration-interieure/explorations/fragment1/</link>
       <pubDate>Sat, 15 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>https://maalshekto.github.io/carnet-migration-interieure/explorations/fragment1/</guid>
+      <guid>http://localhost:1313/carnet-migration-interieure/explorations/fragment1/</guid>
       <description>&lt;h2 id=&#34;partie-i--le-seuil-dentrée&#34;&gt;Partie I — Le seuil d’entrée&lt;/h2&gt;
 &lt;p&gt;Pendant longtemps, ma pensée a fonctionné comme une capacité à manipuler des idées complexes, à raisonner, à modéliser des concepts de plus en plus abstraits.&lt;/p&gt;
 &lt;p&gt;Ce fonctionnement a été validé par mon environnement : il m’a permis de comprendre, d’analyser, de résoudre des problèmes, et de naviguer dans des structures logiques élaborées.&lt;/p&gt;
@@ -21,9 +21,9 @@ Je savais parler du monde, mais je n’étais pas toujours ancré dans l’expé
     </item>
     <item>
       <title>La dialectique du contrôle et de l’abandon</title>
-      <link>https://maalshekto.github.io/carnet-migration-interieure/explorations/fragment2/</link>
+      <link>http://localhost:1313/carnet-migration-interieure/explorations/fragment2/</link>
       <pubDate>Sun, 16 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>https://maalshekto.github.io/carnet-migration-interieure/explorations/fragment2/</guid>
+      <guid>http://localhost:1313/carnet-migration-interieure/explorations/fragment2/</guid>
       <description>&lt;h2 id=&#34;partie-i--le-nœud-central&#34;&gt;Partie I — Le nœud central&lt;/h2&gt;
 &lt;p&gt;En avançant dans cette migration intérieure, je rencontre une tension récurrente :&lt;br&gt;
 &lt;strong&gt;vouloir saisir le réel et, simultanément, devoir m’ouvrir à lui.&lt;/strong&gt;&lt;/p&gt;
@@ -34,9 +34,9 @@ C’est un équilibre vivant, une oscillation permanente :&lt;/p&gt;</descriptio
     </item>
     <item>
       <title>La pensée pré-verbale</title>
-      <link>https://maalshekto.github.io/carnet-migration-interieure/explorations/fragment3/</link>
+      <link>http://localhost:1313/carnet-migration-interieure/explorations/fragment3/</link>
       <pubDate>Mon, 17 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>https://maalshekto.github.io/carnet-migration-interieure/explorations/fragment3/</guid>
+      <guid>http://localhost:1313/carnet-migration-interieure/explorations/fragment3/</guid>
       <description>&lt;h2 id=&#34;partie-i--penser-sans-formuler&#34;&gt;Partie I — Penser sans formuler&lt;/h2&gt;
 &lt;p&gt;Une des transitions les plus profondes que j&amp;rsquo;expérimente est celle du passage de la pensée structurée par le langage à une pensée encore informée mais &lt;strong&gt;non encore formulée&lt;/strong&gt;.&lt;/p&gt;
 &lt;p&gt;J’ai longtemps confondu &lt;strong&gt;penser&lt;/strong&gt; et &lt;strong&gt;verbaliser&lt;/strong&gt;.&lt;br&gt;
@@ -45,9 +45,9 @@ Comme beaucoup, je croyais que l’élaboration d’une idée passait nécessair
     </item>
     <item>
       <title>La temporalité lente de la migration intérieure</title>
-      <link>https://maalshekto.github.io/carnet-migration-interieure/explorations/fragment4/</link>
+      <link>http://localhost:1313/carnet-migration-interieure/explorations/fragment4/</link>
       <pubDate>Tue, 18 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>https://maalshekto.github.io/carnet-migration-interieure/explorations/fragment4/</guid>
+      <guid>http://localhost:1313/carnet-migration-interieure/explorations/fragment4/</guid>
       <description>&lt;h2 id=&#34;partie-i--ni-sprint-ni-révélation&#34;&gt;Partie I — Ni sprint, ni révélation&lt;/h2&gt;
 &lt;p&gt;La migration intérieure ne suit pas la logique habituelle de l’apprentissage moderne.&lt;br&gt;
 Il ne s’agit ni de maîtriser des compétences nouvelles, ni de franchir des étapes définies, ni d’accumuler du savoir supplémentaire.&lt;/p&gt;
@@ -64,9 +64,9 @@ Elle procède par maturation progressive :&lt;/p&gt;
     </item>
     <item>
       <title>Karezza comme laboratoire de migration incarnée</title>
-      <link>https://maalshekto.github.io/carnet-migration-interieure/explorations/fragment5/</link>
+      <link>http://localhost:1313/carnet-migration-interieure/explorations/fragment5/</link>
       <pubDate>Wed, 19 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>https://maalshekto.github.io/carnet-migration-interieure/explorations/fragment5/</guid>
+      <guid>http://localhost:1313/carnet-migration-interieure/explorations/fragment5/</guid>
       <description>&lt;h2 id=&#34;partie-i--le-ralentissement-incarné&#34;&gt;Partie I — Le ralentissement incarné&lt;/h2&gt;
 &lt;p&gt;Parmi les pratiques concrètes qui accompagnent mon travail de migration intérieure, la pratique du &lt;strong&gt;Karezza&lt;/strong&gt; occupe une place singulière.&lt;/p&gt;
 &lt;p&gt;Il ne s’agit pas ici de performance, ni de technique sexuelle au sens classique.&lt;br&gt;
@@ -83,9 +83,9 @@ C’est un laboratoire intime où s’expérimentent plusieurs des dynamiques qu
     </item>
     <item>
       <title>La danse comme dialogue de présence incarnée</title>
-      <link>https://maalshekto.github.io/carnet-migration-interieure/explorations/fragment6/</link>
+      <link>http://localhost:1313/carnet-migration-interieure/explorations/fragment6/</link>
       <pubDate>Thu, 20 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>https://maalshekto.github.io/carnet-migration-interieure/explorations/fragment6/</guid>
+      <guid>http://localhost:1313/carnet-migration-interieure/explorations/fragment6/</guid>
       <description>&lt;h2 id=&#34;partie-i--lentrée-dans-la-présence-interactive&#34;&gt;Partie I — L’entrée dans la présence interactive&lt;/h2&gt;
 &lt;p&gt;Reprendre la danse, après une longue période de travail purement intellectuel, a constitué pour moi une forme &lt;strong&gt;d’exercice vivant de migration intérieure&lt;/strong&gt;.&lt;/p&gt;
 &lt;p&gt;Ici, le réel n’est plus seulement intérieur ou solitaire.&lt;br&gt;
@@ -100,14 +100,28 @@ Il prend la forme d’un &lt;strong&gt;dialogue fluide avec un autre corps&lt;/s
     </item>
     <item>
       <title>Le jardin intérieur : une métaphore vivante de migration</title>
-      <link>https://maalshekto.github.io/carnet-migration-interieure/explorations/fragment7/</link>
+      <link>http://localhost:1313/carnet-migration-interieure/explorations/fragment7/</link>
       <pubDate>Fri, 21 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>https://maalshekto.github.io/carnet-migration-interieure/explorations/fragment7/</guid>
+      <guid>http://localhost:1313/carnet-migration-interieure/explorations/fragment7/</guid>
       <description>&lt;p&gt;Depuis quelque temps, une image me revient régulièrement pour décrire ce qui se passe dans mon cheminement personnel : &lt;strong&gt;celle du jardin intérieur.&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Il ne s’agit pas ici d’un simple exercice de visualisation poétique, mais d’une &lt;strong&gt;métaphore structurelle&lt;/strong&gt; qui exprime avec une certaine justesse la nature de ce processus lent de migration intérieure dans lequel je suis engagé.&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;le-jardin-existe-depuis-longtemps&#34;&gt;Le jardin existe depuis longtemps&lt;/h2&gt;
 &lt;p&gt;Le plus frappant, en revisitant cette image, c’est de constater que &lt;strong&gt;le jardin était déjà là bien avant que je sois capable de le regarder consciemment.&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Désirabilité et réconciliation</title>
+      <link>http://localhost:1313/carnet-migration-interieure/explorations/fragment8/</link>
+      <pubDate>Sat, 22 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/carnet-migration-interieure/explorations/fragment8/</guid>
+      <description>&lt;h2 id=&#34;partie-i--lombre-douce-de-la-désirabilité&#34;&gt;Partie I — L’ombre douce de la désirabilité&lt;/h2&gt;
+&lt;p&gt;Il y a en moi un doute ancien, tenace parfois silencieux :&lt;br&gt;
+suis-je désirable ?&lt;br&gt;
+Pas simplement aimable, pas seulement respecté —&lt;br&gt;
+mais &lt;em&gt;désirable&lt;/em&gt;, dans le sens le plus incarné, le plus sensible.&lt;/p&gt;
+&lt;p&gt;Ce doute n’est pas constant, mais il revient, souvent là où je me fragilise,&lt;br&gt;
+là où je cherche un regard sans le demander,&lt;br&gt;
+ou là où je me compare à des figures masculines plus évidentes, plus affirmées, plus &amp;ldquo;lisibles&amp;rdquo;.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
