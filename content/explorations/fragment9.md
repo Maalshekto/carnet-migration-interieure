@@ -1,12 +1,12 @@
 ---
-title: "Fragment — L’Ingénieur et le Jardinier"
+title: "L’Ingénieur et le Jardinier"
 date: 2024-06-23
 draft: false
 weight: 9
 tags: ["polarités", "masculin", "métaphores", "introspection"]
 ---
 
-## 🌿 Fragment — L’Ingénieur et le Jardinier
+## L’Ingénieur et le Jardinier
 
 Il y a en moi deux figures complémentaires.  
 Je les sens parfois en tension, parfois en harmonie.  
