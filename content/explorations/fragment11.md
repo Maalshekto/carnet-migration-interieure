@@ -6,7 +6,6 @@ tags: ["philosophie", "paradoxe", "développement personnel", "perte", "succès"
 draft: false
 ---
 
-## Ce que l’on gagne quand on perd, ce que l’on perd quand on gagne  
 ### Une économie subtile de l’échange énergétique
 
 Dans nos sociétés saturées d’évaluations, nous avons pris l’habitude de classer les événements en deux catégories : ceux qui nous font *gagner* et ceux qui nous font *perdre*. Cette lecture repose sur un système implicite de préférences : plaisir plutôt que douleur, reconnaissance plutôt que rejet, expansion plutôt que rétraction.
